@@ -17,3 +17,7 @@ Publishing first blog for GIT Homework
 - Commit it, push it.
 - Merge the branch you created back into master, fixing the merge issues.
 - In the content of this homework paste a link to your repository.
+
+
+
+#### New edit / changing text from README.md file.
