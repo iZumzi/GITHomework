@@ -2,6 +2,7 @@
 Publishing first blog for GIT Homework
 
 #This is my HomeWork title
+
 ##From week 10 of my Web. Dev. Course
 
 ###Homework requirements:
